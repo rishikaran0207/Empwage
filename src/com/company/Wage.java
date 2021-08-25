@@ -1,4 +1,4 @@
-q
+
 
 public class Wage {
 
